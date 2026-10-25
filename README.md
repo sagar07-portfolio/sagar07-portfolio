@@ -2,13 +2,13 @@ Aspiring Data Analyst | Excel | SQL | Data Visualization
 
 I'm an aspiring Data Analyst passionate about analyzing data, discovering patterns, and turning data into meaningful insights.
 
-🛠️ Skills
+ Skills
 
 - Microsoft Excel: Data Cleaning, Pivot Tables, Charts & Dashboards
 - SQL: Joins, Subqueries, Aggregate Functions, Data Analysis
 - Data Visualization: Interactive Dashboards and Reports
 
-📊 My Projects
+ My Projects
 
 1. Vrinda Store Sales & Customer Analytics Dashboard
 
@@ -16,7 +16,7 @@ I'm an aspiring Data Analyst passionate about analyzing data, discovering patter
 - Created an interactive dashboard to explore sales trends and customer behavior.
 - Used charts, Pivot Tables, and interactive filters.
 
-🔗 "View Excel Project" (https://github.com/sagar07-portfolio/Excel-Projects)
+ "View Excel Project" (https://github.com/sagar07-portfolio/Excel-Projects)
 
 2. Job Market Analysis Using SQL
 
@@ -24,12 +24,12 @@ I'm an aspiring Data Analyst passionate about analyzing data, discovering patter
 - Practiced SQL queries to analyze job titles, skills, salaries, and locations.
 - Used SQL concepts for data exploration and analysis.
 
-🔗 "View SQL Project" (https://github.com/sagar07-portfolio/SQL-Projects)
+ "View SQL Project" (https://github.com/sagar07-portfolio/SQL-Projects)
 
-🎯 Career Goal
+ Career Goal
 
 To grow as a Data Analyst and use data-driven insights to support better business decisions.
 
-📫 Connect With Me
+ Connect With Me
 
 - GitHub: "sagar07-portfolio" (https://github.com/sagar07-portfolio)
